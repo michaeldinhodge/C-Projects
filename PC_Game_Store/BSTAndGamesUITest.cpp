@@ -1,4 +1,11 @@
-//BSTAndGamesUITest.cpp
+/* BSTAndGamesUITest.cpp
+
+To run program in terminal:
+
+g++ -Wall *.cpp -o BSTAndGamesUITest.cpp
+./BSTAndGamesUITest
+
+*/
 
 #include <iostream>
 #include <fstream>
@@ -560,4 +567,3 @@ void fileOutputForInventory(string& file, ofstream& fout, BST<Game>& games) {
 	games.outputAllData(fout);
 	fout.close();
 }
-

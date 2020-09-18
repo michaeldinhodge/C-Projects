@@ -1,4 +1,4 @@
-Age of Empires II: HD Editions
+Age of Empires II: HD Edition
 Microsoft Games
 Strategy
 T
@@ -45,7 +45,7 @@ Bethesda
 Adventure
 M
 19.99
-Winner of more than 200 Game of the Year awards, Skyrim brings the epic fantasy to life in stunning detail. Includes the base game and all-new features like remastered art and effects, volumetric god rays, dynamic depth of field, and screen space.  
+Winner of more than 200 Game of the Year awards, Skyrim brings the epic fantasy to life in stunning detail. Includes the base game and all-new features like remastered art and effects, volumetric god rays, dynamic depth of field, and screen space.
 
 Elite Dangerous
 Frontier Developments
@@ -56,7 +56,7 @@ Take control of your own starship in a cutthroat galaxy. Elite: Dangerous brings
 
 Fallout 4
 Bethesda
-Adventure 
+Adventure
 M
 49.99
 Bethesda Game Studios, the award winning creators of Fallout 3 and Skyrim, welcome you to the world of Fallout 4, their most ambitious game ever and the next generation of open-world gaming.
@@ -73,7 +73,7 @@ IO Interactive
 Action
 M
 59.99
-Welcome to the world of assassination. You are Agent 47, the world's ultimate assassin. 
+Welcome to the world of assassination. You are Agent 47, the world's ultimate assassin.
 
 Just Cause 3
 Square Enix
@@ -108,7 +108,7 @@ Double Damage Games
 Simulation
 T
 29.99
-Rebel Galaxy is a swashbuckling space adventure with action-packed combat, exploration, discovery, trade, and negotiation with the outlandish denizens at the edge of the known universe. 
+Rebel Galaxy is a swashbuckling space adventure with action-packed combat, exploration, discovery, trade, and negotiation with the outlandish denizens at the edge of the known universe.
 
 Saints Row: The Third
 Volition
@@ -129,7 +129,7 @@ Keen Software House
 Simulation
 E
 39.99
-Space Engineers is a sandbox game about engineering, construction, exploration, and survival in space and on planets. Players build spaceships, space stations, planetary outposts, pilot ships and travel through space to explore planets and gather resources to survive. 
+Space Engineers is a sandbox game about engineering, construction, exploration, and survival in space and on planets. Players build spaceships, space stations, planetary outposts, pilot ships and travel through space to explore planets and gather resources to survive.
 
 Tom Clancy's Splinter Cell Blacklist
 Ubisoft
@@ -138,26 +138,29 @@ M
 19.99
 The United States has a military presence in two-thirds of countries around the world, and some of them have had enough. A group of terrorists calling themselves the Engineers initiate a terror ultimatum called the Blacklist, a deadly countdown of escalating attacks on US interests.
 
+<<<<<<< Updated upstream
 The Witcher 3: Wild Hunt
 CD Projekt Red
 Adventure
 M
 59.99
-The Witcher is a story driven next-generation open-world role-playing game set in a visually stunning fantasy universe full of meaningful choices and impactful consequences. In the Witcher, you play Geralt of Rivea, a monster hunter tasked with finding a child from an ancient prophecy. 
+The Witcher is a story driven next-generation open-world role-playing game set in a visually stunning fantasy universe full of meaningful choices and impactful consequences. In the Witcher, you play Geralt of Rivea, a monster hunter tasked with finding a child from an ancient prophecy.
 
+=======
+>>>>>>> Stashed changes
 Tomb Raider
 Square Enix
 Action
 M
 49.99
-Tomb Raider explores the intense origin story of Lara Croft and her ascent from a young woman to a hardened survivors. 
+Tomb Raider explores the intense origin story of Lara Croft and her ascent from a young woman to a hardened survivors.
 
 Total War: Rome II
 Sega
 Strategy
 T
 19.99
-The definitive edition of Rome II, featuring an improved political system, overhauled building chains, re-balanced battles, and improved visuals. 
+The definitive edition of Rome II, featuring an improved political system, overhauled building chains, re-balanced battles, and improved visuals.
 
 Warhammer 40,000
 Games Workshop
@@ -171,5 +174,15 @@ Ubisoft
 Adventure
 M
 59.99
-Welcome to San Francisco! Play as Markus, a brilliant young hacker, and join the most notorious hacker group, DedSec. Your objective: execute the biggest hack in history. 
+Welcome to San Francisco! Play as Markus, a brilliant young hacker, and join the most notorious hacker group, DedSec. Your objective: execute the biggest hack in history.
 
+<<<<<<< Updated upstream
+=======
+The Witcher 3: Wild Hunt
+CD Projekt Red
+Adventure
+M
+59.99
+The Witcher is a story driven next-generation open-world role-playing game set in a visually stunning fantasy universe full of meaningful choices and impactful consequences. In the Witcher, you play Geralt of Rivea, a monster hunter tasked with finding a child from an ancient prophecy.
+
+>>>>>>> Stashed changes

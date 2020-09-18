@@ -1,4 +1,4 @@
-//Game.cpp 
+//Game.cpp
 
 #include <iostream>
 #include <ostream>
@@ -124,4 +124,3 @@ ostream& operator<<(ostream& os, const Game& game) {
 	os << game.name << " by " << game.publisher << endl << game.genre << endl << "Rating: " << game.rating << endl << "$" << fixed << setprecision(2) << game.price << endl;
 	return os;
 }
-
