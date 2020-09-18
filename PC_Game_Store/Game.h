@@ -1,8 +1,3 @@
-// just take BST.h, Game.h, Game.cpp, games.txt, and
-// BSTAndGamesUITest.cpp
-// that's all you need to run
-// ignore the rest
-
 //Game.h
 
 #ifndef GAME_H_
